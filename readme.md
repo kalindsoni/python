@@ -4,8 +4,7 @@ A simple Python CLI project for analyzing, filtering, sorting, and transforming 
 🎥 Video Explanation
 
 ▶️ Watch the Project Explanation
-
-Replace YOUR_VIDEO_LINK_HERE with your YouTube or video link.
+https://drive.google.com/file/d/1ZCL8GxrCUeZtbhoyce62F9dH892dw9Xq/view?usp=drivesdk
 
 ✨ Features
 
